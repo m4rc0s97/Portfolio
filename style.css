@@ -1,0 +1,25 @@
+body{
+  background-color: #F1D84E;
+}
+.container{
+  background-color: #33FFF7;
+}
+.row{
+  border: 2px solid;
+}
+#skills{
+  background-color: #74F14E;
+}
+#exp{
+  background-color: #DB4EF1;
+}
+h1{
+  color: blue;
+}
+h3{
+  color: orange;
+  font-family:sans-serif;
+}
+p{
+  font-family: cursive;
+}

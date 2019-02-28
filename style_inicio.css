@@ -1,0 +1,25 @@
+body{
+  background-color: #EEEEEE;
+}
+h1{
+  color: #00ADB5;
+}
+#CV{
+  width: 175px;
+  height: 175px;
+}
+.card{
+  display: flex;
+  align-items: center;
+}
+.card-text{
+  display: block;
+  width: 100px
+}
+#Proyectos{
+  width: 175px;
+  height: 175px
+}
+footer{
+  background-color: #ACC6AA;
+}
