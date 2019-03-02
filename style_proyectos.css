@@ -1,0 +1,10 @@
+figure{
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+img{
+  position: relative;
+  width: 100%;
+  display: block;
+}
