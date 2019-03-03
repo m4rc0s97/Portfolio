@@ -1,23 +1,23 @@
 body{
-  background-color: #F1D84E;
+  background-color: #EEEEEE;
 }
 .container{
-  background-color: #33FFF7;
+  background-color: #00ADB5;
 }
 .row{
   border: 2px solid;
 }
 #skills{
-  background-color: #74F14E;
+  background-color: #F9ED69;
 }
 #exp{
-  background-color: #DB4EF1;
+  background-color: #F08A5D;
 }
 h1{
-  color: blue;
+  color: #6A2C70;
 }
 h3{
-  color: orange;
+  color: #B83B5E;
   font-family:sans-serif;
 }
 p{
